@@ -1,0 +1,71 @@
+# Compiled binary and object files
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.lock.json
+*.suo
+*.userosscache
+*.userprefs
+
+# Logs and database
+*.log
+*.tlog
+*.pdb
+*.mdb
+*.opendb
+
+# Build files
+*.vsix
+.vscode/
+
+# Visual Studio specific
+.vs/
+.vscode/
+launchSettings.json
+
+# Rider and JetBrains IDE
+.idea/
+*.sln.iml
+*.csproj.iml
+
+# MacOS
+.DS_Store
+
+# Dependency directories
+node_modules/
+packages/
+.vscode/ 
+
+# Local NuGet packages
+*.nupkg
+.nuget/
+
+# Application settings
+appsettings*.json
+secrets.json
+
+# Generated files
+Generated/
+
+# Temporary files
+~$*
+*.tmp
+*.bak
+*.swp
+*.temp
+*.sln.dotSettings
+
+# Security & Keys
+*.key
+security.*
+
+/generated/
+
+# Backend dependencies
+lock.*
+backupfiles/
+
+# Windows automatically prevent .users-options adn auto/
